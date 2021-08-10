@@ -1,16 +1,14 @@
-# **Hazardous Liquid Pipeline Incidents in U.S.**
+# Hazardous Liquid Pipeline Incidents in the U.S.
 By Ying Zhao
 
 
-Since 2010, more than one million barrels, nearly the size of 60 Olympic swimming pools, of harzardous liquid have been released in pipeline incidents in the U.S. 15 people passed away in the incidents and 38 were injured.
-
+![Since 2010, more than one million barrels, nearly the size of 60 Olympic swimming pools, of harzardous liquid have been released in pipeline **incidents in the U.S. 15 people passed away in the incidents and 38 were injured.
+	
 Some of the liquid leaked during the transporation, others spilled before their journey began--they in the loading process. The types of liquid include crude oil, petroleum, carbon dioxide, alternative fuel, and flammable fluid as HVL. 
-
+	
 The map below shows when and where hazardous liquid pipeline incidents have happened in the U.S. Each circle, being scaled by the amount of net spill,  represents an incident. 
 
-<iframe src="https://public.tableau.com/shared/6C673J7DQ?:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true"scrolling="no" frameborder="0" style="border: none;" width="950" height="590"></iframe>
-
-
+<iframe src="https://public.tableau.com/views/pipeline_light_color/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no&:embed=true" width="1200" height="750"></iframe>
 ###Pipeline operators with most incidents and highest property damage costs, 2010-2020
 
 
